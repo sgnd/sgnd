@@ -1,12 +1,12 @@
 # Hi there 👋
 
-My name is Sugeng Agung Suganda. I'm the DevOps Engineer Lead at **PT. Mejik Utama Sugiharta**, a company that makes solutions for backend and frontend developer to create software with easy.
+My name is Sugeng Agung Suganda. I'm the DevOps Engineer Lead with 2 years experience at **PT. Mejik Utama Sugiharta**, a company that makes solutions for backend and frontend developer to create software with easy.
 
 Here are a few applications:
 - https://microgen.mejik.id
 - https://mejikart.id
 
-I also Instructor at **PT. DumbWays Indonesia Teknologi**, a coding and devops bootcamp.
+I also Instructor at **PT. DumbWays Indonesia Teknologi**, a Full-Stack and DevOps Bootcamp.
 
 ## Get in touch
 - LinkedIn: https://linkedin.com/in/sgnd
