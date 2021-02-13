@@ -6,7 +6,7 @@ Here are a few applications:
 - https://microgen.mejik.id
 - https://mejikart.id
 
-I also Instructor at **PT. DumbWays Indonesia Teknologi** (https://dumbways.id), a Full-Stack and DevOps Bootcamp.
+I also Instructor at **PT. DumbWays Indonesia Teknologi** (https://dumbways.id), Dumbways is a learning program for beginners who want to become a Full-Stack Developer and DevOps Engineer.
 
 ## Get in touch
 - LinkedIn: https://linkedin.com/in/sgnd
