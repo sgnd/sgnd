@@ -6,7 +6,7 @@ Here are a few applications:
 - https://microgen.mejik.id
 - https://mejikart.id
 
-I also Instructor at **PT. DumbWays Indonesia Teknologi** (https://dumbways.id), a learning program for beginners who want to become a Full-Stack Developer and DevOps Engineer.
+I also Instructor at **PT. DumbWays Indonesia Teknologi** (https://dumbways.id), a learning program for beginners who want to become a Full-Stack Developer or DevOps Engineer.
 
 ## Get in touch
 - LinkedIn: https://linkedin.com/in/sgnd
