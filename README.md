@@ -6,6 +6,9 @@ Here are a few applications:
 - https://microgen.id
 - https://codewae.com
 - https://kontenbase.com
+- https://padeprokan.id
+- https://cerdasdigital.id
+- https://diasporapeduli.id
 
 I also Instructor at **PT. DumbWays Indonesia Teknologi** (https://dumbways.id), a learning program for beginners who want to become a Full-Stack Developer or DevOps Engineer.
 
