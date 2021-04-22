@@ -5,7 +5,6 @@ My name is Sugeng Agung Suganda. I'm the DevOps Engineer Lead with 2 years exper
 Here are a few applications:
 - https://microgen.id
 - https://codewae.com
-- https://kontenbase.com
 - https://padeprokan.id
 - https://cerdasdigital.id
 - https://diasporapeduli.id
@@ -15,6 +14,8 @@ I also Instructor at **PT. DumbWays Indonesia Teknologi** (https://dumbways.id),
 Here are a few applications:
 - https://onlyfunction.com
 - https://kelasq.com
+- https://kontenbase.com
+- https://guruinti.com or https://guruinti.id
 
 ## Get in touch (https://linktr.ee/sgnd)
 - LinkedIn: https://linkedin.com/in/sgnd
