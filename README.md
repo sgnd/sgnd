@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Sugeng Agung Suganda. I'm the DevOps Engineer Lead with 2 years experience at **PT. Mejik Utama Sugiharta** (https://mejik.id), a company that makes solutions for backend and frontend developer to create software with easy.
+My name is Sugeng Agung Suganda, DevOps Engineer Lead with 2 years experience at **PT. Mejik Utama Sugiharta** (https://mejik.id), a company that makes solutions for backend and frontend developer to create software with ease.
 
 Here are a few applications:
 - https://microgen.id
