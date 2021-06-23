@@ -21,12 +21,12 @@ Here are a few applications:
 
 ## Our Products
 I have a team and created several useful products for agencies, sites owners and developers.
-- https://cmsmanajer.com : Cadabra Multiple Server Manajer.
-- https://github.com/toolkeet : Open Source Tools for DevOps.
+- https://cmsmanajer.com : A simple control panel for managing cloud server.
+- https://github.com/toolkeet : Opensource tools for DevOps.
 
 ## Get in touch (https://linktr.ee/sgnd)
 - LinkedIn: https://linkedin.com/in/sgnd
-- Twitter: https://twitter.com/sugandaaa_
-- Facebook: https://facebook.com/sugandaaa
-- Instagram: https://www.instagram.com/sugandaaa_
-- Medium: https://medium.com/@suganda
+- Twitter: https://twitter.com/sgnd94
+- Facebook: https://facebook.com/sgnd94
+- Instagram: https://www.instagram.com/sugandaofficial
+- Medium: https://suganda.medium.com
