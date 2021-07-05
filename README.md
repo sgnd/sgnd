@@ -20,7 +20,7 @@ Here are a few applications:
 - https://guruinti.com or https://guruinti.id
 
 ## Our Products
-I have a team and created several useful products for agencies, sites owners and developers.
+I have a teams, called Memoora (https://memoora.com). We are created several useful products for agencies, sites owners and developers.
 - https://cmsmanajer.com : A simple control panel for managing cloud server.
 - https://cadabra.id : Developer cloud platform.
 - https://github.com/toolkeet : Opensource tools for DevOps.
