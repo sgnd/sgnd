@@ -16,12 +16,11 @@ My name is Sugeng Agung Suganda, a Professional CloudOps, SecOps, DevOps, and Da
 ## Closed-source
 
 - **Creatif Studio**: Digital agency specializing in Web3, UI/UX, Research and Development (<https://creatif.studio>)
+- **Konten**: One-stop solution for social media (<https://konten.app>)
 - **Practiz**: Helps individuals, organizations, companies, and governments to go further (<https://practiz.app>)
+- **Karier**: The world's work marketplace (<https://karier.app>)
 - **Dataku**: Everything you need to store, sync and share safely in the cloud (<https://dataku.app>)
 - **Rilis**: Fully-managed PaaS that lets teams automate DevOps (<https://rilis.app>)
-- **Kintaka**: The easiest way to create, manage and deliver your containers (<https://kintaka.app>)
-- **Konten**: One-stop solution for social media (<https://konten.app>)
-- **Karier**: The world's work marketplace (<https://karier.app>)
 
 ## Hire me
 
