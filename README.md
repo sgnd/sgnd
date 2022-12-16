@@ -23,8 +23,7 @@ My name is Sugeng Agung Suganda, a Professional CloudOps, SecOps, DevOps, and Da
 
 ## Hire me
 
-- **Upwork**: <https://www.upwork.com/freelancers/~01613415730ea0a278>
-- **LinkedIn**: <https://linkedin.com/in/sgnd>
+I am available for [teaching](TEACH.md) or [consulting](CONSULTANT.md).
 
 ## Get in touch
 

@@ -50,4 +50,4 @@ Putting together the various pieces of technology to make a complete infrastruct
 
 ## Hire me
 
-If you would like to hire me to teach you DevOps, [shoot me an UpWork](https://www.upwork.com/freelancers/~01613415730ea0a278) and let me know how I can help you.
+If you would like to hire me to teach you DevOps, shoot me an [Upwork](https://www.upwork.com/freelancers/~01613415730ea0a278) or [LinkedIn](https://linkedin.com/in/sgnd) and let me know how I can help you.
