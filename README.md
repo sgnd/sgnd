@@ -8,7 +8,7 @@ My name is Sugeng Agung Suganda, a Professional CloudOps, SecOps, DevOps, and Da
 
 ## Open-source
 
-- **RelaxBoss**: Deploy a production apps with single command (<https://github.com/sgnd/relaxboss>)
+- **RelaxBoss**: Deploy production apps with a single command (<https://github.com/sgnd/relaxboss>)
 - **SwarmBoss**: Deploy a production-ready docker swarm cluster (<https://github.com/sgnd/swarmboss>)
 - **KubeeBoss**: Deploy a production-ready kubernetes cluster (<https://github.com/sgnd/kubeeboss>)
 
