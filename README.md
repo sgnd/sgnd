@@ -10,8 +10,6 @@ My name is Sugeng Agung Suganda, a Professional CloudOps, SecOps, DevOps, and Da
 
 - **SwarmBoss**: Deploy a production-ready docker swarm cluster (<https://github.com/sgnd/swarmboss>)
 - **KubeBoss**: Deploy a production-ready kubenetes cluster (<https://github.com/sgnd/kubeboss>)
-- **RanchBoss**: Deploy a production-ready rancher cluster (<https://github.com/sgnd/ranchboss>)
-- **NomadBoss**: Deploy a production-ready nomad cluster (<https://github.com/sgnd/nomadboss>)
 
 ## Founder
 
