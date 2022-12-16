@@ -25,8 +25,8 @@ My name is Sugeng Agung Suganda, a Professional CloudOps, SecOps, DevOps, and Da
 
 ## Hire me
 
-- **DevOps Teacher**: [read more detail...](TEACH.md)
-- **DevOps Consultant**: [read more detail...](CONSULTANT.md)
+- **DevOps Teacher**: [Read more detail...](TEACH.md)
+- **DevOps Consultant**: [Read more detail...](CONSULTANT.md)
 
 ## Get in touch
 
