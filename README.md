@@ -15,7 +15,7 @@ My name is Sugeng Agung Suganda, a Professional CloudOps, SecOps, DevOps, and Da
 
 ## Closed-source
 
-- **Creatif Studio**: Digital agency specializing in Web3, UI/UX, Research and Development (<https://creatif.studio>)
+- **Creatif Studio**: Digital agency specializing in research and development for websites and mobile apps (<https://creatif.studio>)
 - **Konten**: Social media superhero that lets you collaborate, schedule & analyze your posts (<https://konten.app>)
 - **Practiz**: Helps individuals, organizations, companies, and governments to go further (<https://practiz.app>)
 - **Karier**: Connects businesses with independent professionals and agencies around the globe (<https://karier.app>)
