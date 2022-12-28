@@ -1,3 +1,5 @@
+![Picture](github.png)
+
 # Hi there 👋
 
 My name is Sugeng Agung Suganda, a Professional CloudOps, SecOps, DevOps, and DataOps. I design, secure, automate, and manage infrastructure from scratch, choosing the best technology for you. I’ve spent the last few years designing, securing, automating, and managing infrastructure for small businesses, startups, and large organizations.
