@@ -1,4 +1,4 @@
-![Picture](github.png)
+![Picture](./github.png)
 
 # Hi there 👋
 
@@ -26,8 +26,8 @@ My name is Sugeng Agung Suganda, a Professional CloudOps, SecOps, DevOps, and Da
 
 ## Hire me
 
-- **DevOps Teacher**: [Read more detail...](TEACH.md)
-- **DevOps Consultant**: [Read more detail...](CONSULTANT.md)
+- **DevOps Teacher**: [Read more detail...](./TEACH.md)
+- **DevOps Consultant**: [Read more detail...](./CONSULTANT.md)
 
 ## Get in touch
 
