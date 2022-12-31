@@ -4,7 +4,7 @@
 
 My name is Sugeng Agung Suganda, a Professional CloudOps, SecOps, DevOps, and DataOps. I design, secure, automate, and manage infrastructure from scratch, choosing the best technology for you. I’ve spent the last few years designing, securing, automating, and managing infrastructure for small businesses, startups, and large organizations.
 
-- **Hysn Pte Ltd / Practical DevSecOps**: Lead Site Reliability Engineer (2023-Present)
+- **Practical DevSecOps / Hysn Pte Ltd**: Lead Site Reliability Engineer (2023-Present)
 - **PT. Code Development Indonesia**: Senior DevOps Engineer (2022-Present)
 - **PT. Kredit Pintar Indonesia**: Cloud Architecture Consultant (2022-2022)
 - **PT. DumbWays Indonesia Teknologi**: Senior DevOps Instructor (2020-2022)
