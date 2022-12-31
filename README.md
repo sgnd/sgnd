@@ -20,7 +20,7 @@ My name is Sugeng Agung Suganda, a Professional CloudOps, SecOps, DevOps, and Da
 ## Closed-source
 
 - **Creatif Studio**: Digital agency specializing in RnD for websites and mobile applications (<https://creatif.studio>)
-- **Konten**: Social media superhero that lets you collaborate, schedule & analyze your posts (<https://konten.app>)
+- **Konten**: Social media superhero that lets you collaborate, schedule & analyzes your posts (<https://konten.app>)
 - **Practiz**: Helps individuals, organizations, companies, and governments to go further (<https://practiz.app>)
 - **Karier**: Connects businesses with independent professionals and agencies around the globe (<https://karier.app>)
 - **Dataku**: Everything you need to store, sync and share safely in the cloud (<https://dataku.app>)
