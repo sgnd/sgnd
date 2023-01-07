@@ -10,6 +10,11 @@ My name is Sugeng Agung Suganda, a Professional CloudOps, SecOps, DevOps, and Da
 - **PT. DumbWays Indonesia Teknologi**: Senior DevOps Instructor (2020-2022)
 - **PT. Mejik Utama Sugiharta**: Senior DevOps Engineer (2019-2022)
 
+## Cheatsheet & Interview
+- **Linux**: Enhance your Linux knowledge with our cheatsheet and extensive interview question list
+- **Git**: Improve your Git proficiency with our cheatsheet and extensive interview question list
+- **Docker**: Improve your Docker skills with our cheatsheet and interview question list
+
 ## Open-source
 
 - **LocalBoss**: Instant script to setup local Ubuntu and MacOS for DevOps (<https://github.com/sgnd/localboss>)
