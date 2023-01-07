@@ -19,8 +19,8 @@ My name is Sugeng Agung Suganda, a Professional CloudOps, SecOps, DevOps, and Da
 
 - [**LocalBoss**](https://github.com/sgnd/localboss): Instant script to setup local Ubuntu and MacOS for DevOps 
 - [**RelaxBoss**](https://github.com/sgnd/relaxboss): Deploy production Apps with a single command 
-- [**SwarmBoss**](https://github.com/sgnd/swarmboss): Deploy a production-ready Docker Swarm Cluster 
-- [**KubeeBoss**](https://github.com/sgnd/kubeeboss): Deploy a production-ready Kubernetes Cluster 
+- [**Docker Swarm Installer**](https://github.com/sgnd/dockerswarm-installer): Deploy a production-ready Docker Swarm Cluster 
+- [**Kubernetes Installer**](https://github.com/sgnd/kubernetes-installer): Deploy a production-ready Kubernetes Cluster 
 
 ## Closed-source
 
