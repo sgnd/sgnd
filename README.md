@@ -24,6 +24,7 @@ My name is Sugeng Agung Suganda, a Professional CloudOps, SecOps, DevOps, and Da
 - [**Kubernetes Installer**](https://github.com/sgnd/kubernetes-installer): Deploy a production-ready Kubernetes Cluster  
 - [**MySQL Installer**](https://github.com/sgnd/dockerswarm-installer): Deploy a production-ready MySQL Cluster  
 - [**PostgreSQL Installer**](https://github.com/sgnd/kubernetes-installer): Deploy a production-ready PostgreSQL Cluster  
+- [**MongoDB Installer**](https://github.com/sgnd/kubernetes-installer): Deploy a production-ready PostgreSQL Cluster  
 - [**Redis Installer**](https://github.com/sgnd/dockerswarm-installer): Deploy a production-ready Redis Cluster  
 - [**ELK Stack Installer**](https://github.com/sgnd/kubernetes-installer): Deploy a production-ready ELK Stack Cluster  
 
