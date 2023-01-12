@@ -27,7 +27,7 @@ My name is Sugeng Agung Suganda, a Professional CloudOps, SecOps, DevOps, and Da
 - [**MongoDB Installer**](https://github.com/sgnd/mongodb-installer): Deploy a production-ready MongoDB Cluster  
 - [**Redis Installer**](https://github.com/sgnd/redis-installer): Deploy a production-ready Redis Cluster  
 - [**Kafka Installer**](https://github.com/sgnd/kubernetes-installer): Deploy a production-ready PostgreSQL Cluster  
-- [**ELK Stack Installer**](https://github.com/sgnd/elk-installer): Deploy a production-ready ELK Stack Cluster  
+- [**Elasticsearch Installer**](https://github.com/sgnd/elasticsearch-installer): Deploy a production-ready Elasticsearch Cluster  
 
 ## Closed-source
 
