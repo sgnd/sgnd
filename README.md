@@ -13,10 +13,10 @@ My name is Sugeng Agung Suganda, a Professional CloudOps, SecOps, DevOps, and Da
 
 ## Cheatsheet & Interview
 
-- [**Linux**](https://github.com/sgnd/linux-course): Enhance your Linux knowledge with our cheatsheet and extensive interview question list
-- [**Git**](https://github.com/sgnd/git-course): Improve your Git proficiency with our cheatsheet and extensive interview question list
-- [**Docker**](https://github.com/sgnd/docker-course): Improve your Docker skills with our cheatsheet and interview question list
-- [**Kubernetes**](https://github.com/sgnd/docker-course): Simplified Kubernetes cheatsheet for interviews: Learn key concepts and components
+- [**Linux**](https://github.com/sgnd/linux-course): Linux mastery for interviews: Simplified cheatsheet for essential concepts and commands
+- [**Git**](https://github.com/sgnd/git-course): Git mastery for interviews: Simplified cheatsheet for key concepts and commands
+- [**Docker**](https://github.com/sgnd/docker-course): Docker mastery for interviews: Simplified cheatsheet for essential concepts and commands
+- [**Kubernetes**](https://github.com/sgnd/docker-course): Kubernetes mastery for interviews: Simplified cheatsheet for key concepts and components
 
 ## Open-source
 
