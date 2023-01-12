@@ -20,8 +20,12 @@ My name is Sugeng Agung Suganda, a Professional CloudOps, SecOps, DevOps, and Da
 
 ## Open-source
 
-- [**Docker Swarm Installer**](https://github.com/sgnd/dockerswarm-installer): Deploy a production-ready Docker Swarm Cluster 
-- [**Kubernetes Installer**](https://github.com/sgnd/kubernetes-installer): Deploy a production-ready Kubernetes Cluster 
+- [**Docker Swarm Installer**](https://github.com/sgnd/dockerswarm-installer): Deploy a production-ready Docker Swarm Cluster  
+- [**Kubernetes Installer**](https://github.com/sgnd/kubernetes-installer): Deploy a production-ready Kubernetes Cluster  
+- [**MySQL/MariaDB Installer**](https://github.com/sgnd/dockerswarm-installer): Deploy a production-ready MySQL/MariaDB Cluster  
+- [**PostgreSQL Installer**](https://github.com/sgnd/kubernetes-installer): Deploy a production-ready PostgreSQL Cluster  
+- [**Redis Installer**](https://github.com/sgnd/dockerswarm-installer): Deploy a production-ready Redis Cluster  
+- [**ELK Stack Installer**](https://github.com/sgnd/kubernetes-installer): Deploy a production-ready ELK Stack Cluster  
 
 ## Closed-source
 
