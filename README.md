@@ -22,11 +22,12 @@ My name is Sugeng Agung Suganda, a Professional CloudOps, SecOps, DevOps, and Da
 
 - [**Docker Swarm Installer**](https://github.com/sgnd/dockerswarm-installer): Deploy a production-ready Docker Swarm Cluster  
 - [**Kubernetes Installer**](https://github.com/sgnd/kubernetes-installer): Deploy a production-ready Kubernetes Cluster  
-- [**MySQL Installer**](https://github.com/sgnd/dockerswarm-installer): Deploy a production-ready MySQL Cluster  
-- [**PostgreSQL Installer**](https://github.com/sgnd/kubernetes-installer): Deploy a production-ready PostgreSQL Cluster  
-- [**MongoDB Installer**](https://github.com/sgnd/kubernetes-installer): Deploy a production-ready PostgreSQL Cluster  
-- [**Redis Installer**](https://github.com/sgnd/dockerswarm-installer): Deploy a production-ready Redis Cluster  
-- [**ELK Stack Installer**](https://github.com/sgnd/kubernetes-installer): Deploy a production-ready ELK Stack Cluster  
+- [**MySQL Installer**](https://github.com/sgnd/mysql-installer): Deploy a production-ready MySQL Cluster  
+- [**PostgreSQL Installer**](https://github.com/sgnd/postgresql-installer): Deploy a production-ready PostgreSQL Cluster  
+- [**MongoDB Installer**](https://github.com/sgnd/mongodb-installer): Deploy a production-ready MongoDB Cluster  
+- [**Redis Installer**](https://github.com/sgnd/redis-installer): Deploy a production-ready Redis Cluster  
+- [**Kafka Installer**](https://github.com/sgnd/kubernetes-installer): Deploy a production-ready PostgreSQL Cluster  
+- [**ELK Stack Installer**](https://github.com/sgnd/elk-installer): Deploy a production-ready ELK Stack Cluster  
 
 ## Closed-source
 
