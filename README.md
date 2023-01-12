@@ -4,6 +4,7 @@
 
 My name is Sugeng Agung Suganda, a Professional CloudOps, SecOps, DevOps, and DataOps. I design, secure, automate, and manage infrastructure from scratch, choosing the best technology for you. I’ve spent the last few years designing, securing, automating, and managing infrastructure for small businesses, startups, and large organizations.
 
+**Experiences**:
 - [**Practical DevSecOps / Hysn Pte Ltd**](https://practical-devsecops.com): Lead Site Reliability Engineer (2023-Present)
 - [**PT. Code Development Indonesia**](https://code.id): Senior DevOps Engineer (2022-Present)
 - [**PT. Kredit Pintar Indonesia**](https://kreditpintar.com): Cloud Architecture Consultant (2022-2022)
@@ -11,14 +12,14 @@ My name is Sugeng Agung Suganda, a Professional CloudOps, SecOps, DevOps, and Da
 - [**PT. Mejik Utama Sugiharta**](https://mejik.id): Senior DevOps Engineer (2019-2022)
 
 ## Cheatsheet & Interview
+
 - [**Linux**](https://github.com/sgnd/linux-course): Enhance your Linux knowledge with our cheatsheet and extensive interview question list
 - [**Git**](https://github.com/sgnd/git-course): Improve your Git proficiency with our cheatsheet and extensive interview question list
 - [**Docker**](https://github.com/sgnd/docker-course): Improve your Docker skills with our cheatsheet and interview question list
+- [**Kubernetes**](https://github.com/sgnd/docker-course): Simplified Kubernetes cheatsheet for interviews: Learn key concepts and components
 
 ## Open-source
 
-- [**LocalBoss**](https://github.com/sgnd/localboss): Instant script to setup local Ubuntu and MacOS for DevOps 
-- [**RelaxBoss**](https://github.com/sgnd/relaxboss): Deploy production Apps with a single command 
 - [**Docker Swarm Installer**](https://github.com/sgnd/dockerswarm-installer): Deploy a production-ready Docker Swarm Cluster 
 - [**Kubernetes Installer**](https://github.com/sgnd/kubernetes-installer): Deploy a production-ready Kubernetes Cluster 
 
