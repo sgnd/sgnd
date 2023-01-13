@@ -14,8 +14,8 @@ My name is Sugeng Agung Suganda, a Professional CloudOps, SecOps, DevOps, and Da
 ## Cheatsheet & Interview
 
 - [**Git**](https://github.com/sgnd/git-course): Git mastery for interviews: Simplified cheatsheet for key concepts and commands
-- [**Linux**](https://github.com/sgnd/linux-course): Linux mastery for interviews: Simplified cheatsheet for essential concepts and commands
-- [**Docker**](https://github.com/sgnd/docker-course): Docker mastery for interviews: Simplified cheatsheet for essential concepts and commands
+- [**Linux**](https://github.com/sgnd/linux-course): Linux mastery for interviews: Simplified cheatsheet for key concepts and commands
+- [**Docker**](https://github.com/sgnd/docker-course): Docker mastery for interviews: Simplified cheatsheet for key concepts and commands
 - [**Kubernetes**](https://github.com/sgnd/docker-course): Kubernetes mastery for interviews: Simplified cheatsheet for key concepts and components
 
 ## Open-source
