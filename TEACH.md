@@ -1,12 +1,10 @@
-The path to becoming a DevOps Engineer can be extremely frustrating. You might’ve followed all the tutorials on the Internet and feel confident, but you get stuck when it comes to making your own infrastructure. Or, with so many resources out there and limited time, you’re overwhelmed and don’t know what you should be focusing on.
+The journey to becoming a DevOps Engineer can be frustrating. You may have followed tutorials on the internet and feel confident, but get stuck when it comes to creating your own infrastructure. Or, with so many resources available and limited time, you may feel overwhelmed and unsure of what to focus on.
 
-Let me help you along with your journey to becoming a DevOps Engineer.
-
-My priority is to help you to understand your goals and guide you on the steps you should focus on taking to achieve them.
+Let me help guide you on your journey to becoming a DevOps Engineer. My priority is to help you understand your goals and the steps you need to take to achieve them.
 
 ## Subjects I can help with
 
-I can help in these subjects around DevOps Engineer.
+I can assist with the following subjects related to DevOps Engineering:
 
 - Linux Server Fundamental
 - Linux Command Line Interface
@@ -24,7 +22,7 @@ I can help in these subjects around DevOps Engineer.
 - Logs Managements
 - Database and Caching
 
-Putting together the various pieces of technology to make a complete infrastructure
+I can help you understand how to put together various technologies to create a complete infrastructure.
 
 ## What my past students have to say
 
