@@ -6,8 +6,8 @@ I am a highly experienced DevOps Engineer and SRE with a proven track record of 
 
 ## Hire me
 
-- **DevOps/SRE Teacher**: [Read more detail...](TEACH.md)
-- **DevOps/SRE Consultant**: [Read more detail...](CONSULTANT.md)
+- [**DevOps/SRE Teacher**](TEACH.md): Learn more about my teaching services and schedule
+- [**DevOps/SRE Consultant**](CONSULTANT.md): Learn more about my consulting services and schedule
 
 ## Employment history
 - [**Practical DevSecOps / Hysn Pte Ltd**](https://practical-devsecops.com): Lead Site Reliability Engineer (2023-Present)
