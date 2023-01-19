@@ -15,14 +15,14 @@ Skilled in the following technologies:
 ✅ Logs Management: ELK Stack and Grafana Loki  
 ✅ Others: Python, Bash, ...  
 
-I am confident in my abilities to deliver high-quality, secure, and scalable infrastructure in a timely manner, and always strive for better communication and understanding of clients' needs.
+I am confident in my ability to deliver high-quality, secure, and scalable infrastructure in a timely manner, and always strive for better communication and understanding of clients' needs.
 
-## Hire Me
+## Hire me
 
 - **DevOps/SRE Teacher**: [Read more detail...](TEACH.md)
 - **DevOps/SRE Consultant**: [Read more detail...](CONSULTANT.md)
 
-## **Experiences**
+## Employment history
 - [**Practical DevSecOps / Hysn Pte Ltd**](https://practical-devsecops.com): Lead Site Reliability Engineer (2023-Present)
 - [**PT. Code Development Indonesia**](https://code.id): Senior DevOps Engineer (2022-Present)
 - [**PT. Kredit Pintar Indonesia**](https://kreditpintar.com): Cloud Architecture Consultant (2022-2022)
