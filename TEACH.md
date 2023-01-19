@@ -48,4 +48,4 @@ I can help you understand how to put together various technologies to create a c
 
 ## Hire me
 
-If you would like to hire me to teach you DevOps, shoot me an [Upwork](https://www.upwork.com/freelancers/~01613415730ea0a278) or [LinkedIn](https://linkedin.com/in/sgnd) and let me know how I can help you.
+If you're interested in working with me, please contact me on [Upwork](https://www.upwork.com/freelancers/~01613415730ea0a278) or [LinkedIn](https://linkedin.com/in/sgnd).
