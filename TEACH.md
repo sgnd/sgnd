@@ -1,10 +1,10 @@
-The journey to becoming a DevOps Engineer can be frustrating. You may have followed tutorials on the internet and feel confident, but get stuck when it comes to creating your own infrastructure. Or, with so many resources available and limited time, you may feel overwhelmed and unsure of what to focus on.
+The journey to becoming a DevOps Engineer / Site Reliability Engineer can be frustrating. You may have followed tutorials on the internet and feel confident, but get stuck when it comes to creating your own infrastructure. Or, with so many resources available and limited time, you may feel overwhelmed and unsure of what to focus on.
 
-Let me help guide you on your journey to becoming a DevOps Engineer. My priority is to help you understand your goals and the steps you need to take to achieve them.
+Let me help guide you on your journey to becoming a DevOps Engineer / Site Reliability Engineer. My priority is to help you understand your goals and the steps you need to take to achieve them.
 
 ## Subjects I can help with
 
-I can assist with the following subjects related to DevOps Engineering:
+I can assist with the following subjects:
 
 - Linux Server Fundamental
 - Linux Command Line Interface
