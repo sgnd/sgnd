@@ -6,11 +6,11 @@ I am a highly experienced DevOps Engineer and Site Reliability Engineer with a p
 
 ## Hire me
 
-- [**DevOps Engineer / Site Reliability Engineer Teacher**](TEACH.md): Learn more about my teaching services and schedule
-- [**DevOps Engineer / Site Reliability Engineer Consultant**](CONSULTANT.md): Learn more about my consulting services and schedule
+- [**DevOps / Site Reliability Teacher**](TEACH.md): Learn more about my teaching services and schedule
+- [**DevOps / Site Reliability Consultant**](CONSULTANT.md): Learn more about my consulting services and schedule
 
 ## Employment history
-- [**Practical DevSecOps / Hysn Pte Ltd**](https://practical-devsecops.com): Lead Site Reliability Engineer (2023-Present)
+- [**Hysn Pte Ltd / Practical DevSecOps**](https://practical-devsecops.com): Lead Site Reliability Engineer (2023-Present)
 - [**PT. Code Development Indonesia**](https://code.id): Senior DevOps Engineer (2022-Present)
 - [**PT. Kredit Pintar Indonesia**](https://kreditpintar.com): Cloud Architecture Consultant (2022-2022)
 - [**PT. DumbWays Indonesia Teknologi**](https://dumbways.id): Senior DevOps Instructor (2020-2022)
