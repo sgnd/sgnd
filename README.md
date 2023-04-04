@@ -6,12 +6,10 @@ I am a highly experienced DevOps Engineer and Site Reliability Engineer with a p
 
 ## Employment history
 - [**Practical DevSecOps**](https://practical-devsecops.com): Site Reliability Engineer Lead (2023-Present)
-- [**PT. Code Development Indonesia**](https://code.id): Site Reliability Engineer Lead (2023-Present)
-- [**PT. Code Development Indonesia**](https://code.id): Senior DevOps Engineer (2022-2023)
+- [**PT. Code Development Indonesia**](https://code.id): Senior DevOps Engineer (2022-2023) & Site Reliability Engineer Lead (2023-Present)
 - [**PT. Kredit Pintar Indonesia**](https://kreditpintar.com): DevOps Consultant (2022-2022)
 - [**PT. DumbWays Indonesia Teknologi**](https://dumbways.id): DevOps Instructor (2021-2022)
-- [**PT. Mejik Utama Sugiharta**](https://mejik.id): Senior DevOps Engineer (2021-2022)
-- [**PT. Mejik Utama Sugiharta**](https://mejik.id): Junior DevOps Engineer (2019-2021)
+- [**PT. Mejik Utama Sugiharta**](https://mejik.id): Junior DevOps Engineer (2019-2021) & Senior DevOps Engineer (2021-2022)
 
 ## Hire me
 - [**DevOps / Site Reliability Teacher**](TEACH.md): Learn more about my teaching services and schedule
