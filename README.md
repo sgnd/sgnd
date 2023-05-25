@@ -31,5 +31,5 @@ In addition, I have a strong background as a DevSecOps Engineer/Site Reliability
 With a proven track record of delivering great work, I am confident that I can help bring your project to life. Let's work together to create something amazing!  
 
 ## Hire me
-- [**Developer, DevOps/SRE Teacher**](TEACH.md): Learn more about my teaching services and schedule
-- [**Developer, DevOps/SRE Consultant**](CONSULTANT.md): Learn more about my consulting services and schedule
+- [**Developer and DevSecOps/SRE Teacher**](TEACH.md): Learn more about my teaching services and schedule
+- [**Developer and DevSecOps/SRE Consultant**](CONSULTANT.md): Learn more about my consulting services and schedule
