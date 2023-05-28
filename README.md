@@ -8,7 +8,7 @@ In addition, I have a strong background as a DevSecOps Engineer/Site Reliability
 
 ### Full-Stack Development:  
 ✅ Backend languages: Node.js, Go-lang, Python, PHP, and Java  
-✅ Backend frameworks: Next.js, Nest.js, Gin, Echo, Fiber, Laravel, and Spring  
+✅ Backend frameworks: Next.js, Nest.js, Express.js, Gin, Echo, Fiber, Laravel, and Spring  
 ✅ Frontend languages: Node.js, HTML, CSS, and JS  
 ✅ Frontend frameworks: React.js, Next.js, Vue.js, and Nuxt.js  
 ✅ Databases: MySQL/MariaDB, PostgreSQL, and MongoDB  
