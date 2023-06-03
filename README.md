@@ -2,15 +2,14 @@
 
 I'm a highly experienced Full-Stack Developer with over 5 years of experience in designing and building web and mobile applications for businesses of all sizes. I specialize in front-end and back-end development, utilizing a variety of frameworks and technologies to deliver high-quality, scalable, and secure web/mobile apps.
 
-In addition, I have a strong background as a DevSecOps Engineer/Site Reliability Engineer (SRE) and a proven track record of designing, building, automating, and managing infrastructure from scratch. I work closely with clients to ensure that their infrastructure is secure, scalable, and highly available.
+In addition, I have a strong background as a DevSecOps / Site Reliability Engineer (SRE) / SysAdmin and a proven track record of designing, building, automating, and managing infrastructure from scratch. I work closely with clients to ensure that their infrastructure is secure, scalable, and highly available.
 
 ## Skilled in the following technologies:
 
 ### Full-Stack Development:  
-✅ Backend languages: Node.js, Go-lang, Python, PHP, and Java  
-✅ Backend frameworks: Next.js, Nest.js, Express.js, Gin, Echo, Fiber, Laravel, and Spring  
-✅ Frontend languages: Node.js, HTML, CSS, and JS  
-✅ Frontend frameworks: React.js, Next.js, Vue.js, and Nuxt.js  
+✅ Programming languages: Node.js, Go-Lang, and Python  
+✅ Backend frameworks: Next.js, Nest.js, Gin, Echo, Django, and Flask  
+✅ Frontend frameworks: React.js, Next.js, Vue.js, Nuxt.js, and React Native  
 ✅ Databases: MySQL/MariaDB, PostgreSQL, and MongoDB  
 ✅ Message brokers: RabbitMQ and Apache Kafka  
 ✅ Caching systems: Redis and Memcached  
@@ -19,7 +18,7 @@ In addition, I have a strong background as a DevSecOps Engineer/Site Reliability
 ✅ Git platforms: GitHub, GitLab, and Bitbucket  
 
 ### DevSecOps / Site Reliability Engineer:  
-✅ Cloud Providers: AWS, GCP, Azure, and DigitalOcean  
+✅ Cloud Providers: AWS, GCP, Azure, Vultr, OVH, and DigitalOcean  
 ✅ Operating Systems: Ubuntu Server and RedHat Server  
 ✅ Infrastructure as Code: Vagrant, Ansible, and Terraform  
 ✅ Containerization: Docker and Podman  
