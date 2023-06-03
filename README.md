@@ -17,7 +17,7 @@ In addition, I have a strong background as a DevSecOps / Site Reliability Engine
 ✅ Payment gateways: Stripe, Xendit, Midtrans, and PayPal  
 ✅ Git platforms: GitHub, GitLab, and Bitbucket  
 
-### DevSecOps / Site Reliability Engineer:  
+### DevSecOps / Site Reliability Engineer / SysAdmin:  
 ✅ Cloud Providers: AWS, GCP, Azure, Vultr, OVH, and DigitalOcean  
 ✅ Operating Systems: Ubuntu Server and RedHat Server  
 ✅ Infrastructure as Code: Vagrant, Ansible, and Terraform  
