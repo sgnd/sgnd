@@ -5,10 +5,9 @@ I leverage my experiences and skills to understand the problem a client has and 
 ## I am skilled in the following technologies:  
 
 ### Full-Stack Development:  
-✅ Backend languages: Node.js, Go-lang, Python, PHP, and Java  
-✅ Backend frameworks: Next.js, Nest.js, Gin, Echo, Fiber, Laravel, and Spring  
-✅ Frontend languages: Node.js, HTML, CSS, and JS  
-✅ Frontend frameworks: React.js, Next.js, Vue.js, and Nuxt.js  
+✅ Programming languages: Node.js, Go-Lang, and Python  
+✅ Backend frameworks: Next.js, Nest.js, Gin, Echo, Django, and Flask  
+✅ Frontend frameworks: React.js, Next.js, Vue.js, Nuxt.js, and React Native  
 ✅ Databases: MySQL/MariaDB, PostgreSQL, and MongoDB  
 ✅ Message brokers: RabbitMQ and Apache Kafka  
 ✅ Caching systems: Redis and Memcached  
@@ -16,8 +15,8 @@ I leverage my experiences and skills to understand the problem a client has and 
 ✅ Payment gateways: Stripe, Xendit, Midtrans, and PayPal  
 ✅ Git platforms: GitHub, GitLab, and Bitbucket  
 
-### DevSecOps/SRE:  
-✅ Cloud Providers: AWS, GCP, Azure, and DigitalOcean  
+### DevSecOps/SRE/SysAdmin:  
+✅ Cloud Providers: AWS, GCP, Azure, OVH, Vultr, and DigitalOcean  
 ✅ Operating Systems: Ubuntu Server and RedHat Server  
 ✅ Infrastructure as Code: Vagrant, Ansible, and Terraform  
 ✅ Containerization: Docker and Podman  
