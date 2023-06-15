@@ -24,5 +24,5 @@ Message Brokers (RabbitMQ, Apache Kafka), Caching Systems (Redis, Memcached), Se
 
 ### 💼 Let's Collaborate on Your Next Project:
 If you're seeking a highly skilled Full-Stack Web/Mobile Developer and Cloud Engineer to bring your vision to life, I'm here to help. Together, we can create exceptional web and mobile applications that drive your business forward. Contact me today to discuss your project requirements and take the first step toward success.
-- [**Full-Stack and DevOps Teacher**](TEACH.md): Learn more about my teaching services and schedule
-- [**Full-Stack and DevOps Consultant**](CONSULTANT.md): Learn more about my consulting services and schedule
+- [Full-Stack and DevOps Teacher](TEACH.md): Learn more about my teaching services and schedule
+- [Full-Stack and DevOps Consultant](CONSULTANT.md): Learn more about my consulting services and schedule
