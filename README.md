@@ -13,7 +13,7 @@ Highly Experienced in Full-Stack Web/Mobile Development and Cloud Engineering, w
 
 ☁️ Cloud Engineering: I am adept at working with leading cloud providers, including AWS, GCP, Azure, Vultr, OVH, and DigitalOcean. I design secure, scalable, and highly available cloud infrastructure to optimize performance and reduce costs.
 
-💪 DevSecOps and Infrastructure Automation: With a strong background as a DevSecOps practitioner and Site Reliability Engineer (SRE), I automate infrastructure provisioning and management using tools like Jenkins, Sonarqube, Ansible, Terraform, and more.
+🚀 DevSecOps and Infrastructure Automation: With a strong background as a DevSecOps practitioner and Site Reliability Engineer (SRE), I automate infrastructure provisioning and management using tools like Jenkins, Sonarqube, Ansible, Terraform, and more.
 
 🗄️ Database Management: My proficiency in MySQL/MariaDB, PostgreSQL, and MongoDB enables me to design efficient database structures and implement effective data management strategies for seamless application performance.
 
