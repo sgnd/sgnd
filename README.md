@@ -7,7 +7,7 @@ Highly Experienced in Full-Stack Web/Mobile Development and Cloud Engineering, w
 
 📱 Frontend Web/Mobile Development: With proficiency in React Native, Flutter, React.js, and Next.js, I develop captivating and responsive web/mobile applications for iOS and Android platforms, ensuring a seamless user experience.
 
-🔒 Blockchain Development: I have experience in developing custom tokens on the Ethereum blockchain using Solidity and Smart Contracts. I can help you build and deploy your own blockchain-based tokens with security and efficiency in mind.
+🔒 Blockchain/Web3 Development: I have experience in developing custom tokens on the Ethereum blockchain using Solidity and Smart Contracts. I can help you build and deploy your own blockchain-based tokens with security and efficiency in mind.
 
 ☁️ Cloud Engineering: I am adept at working with leading cloud providers, including AWS, GCP, Azure, Vultr, OVH, and DigitalOcean. I design secure, scalable, and highly available cloud infrastructure to optimize performance and reduce costs.
 
