@@ -1,3 +1,5 @@
+![Cover Image](./assets/sgnd.png)
+
 ## Supercharge Your Success with a Visionary Full-Stack Developer and Cloud Maestro
 
 Are you ready to embark on a digital journey like never before? Prepare to be amazed. I'm not just a developer; I'm a creator of digital wonders. With a deep well of experience in Full-Stack Web/Mobile Development and Cloud Engineering, I have a track record of conjuring web and mobile applications and sculpting robust infrastructure for businesses of all sizes. My mission? To craft stunning, scalable, and ultra-secure web and mobile apps using cutting-edge technologies.
