@@ -17,7 +17,7 @@ Are you seeking to transform your digital dreams into reality? Look no further! 
 - 🗄️ **Caching Technologies**: Redis, Memcached
 - 🔍 **Search Engines**: Elasticsearch
 - 💳 **Payment Gateways**: Stripe, Xendit, Midtrans, PayPal
-- 🛠️ **Git Platform**: GitHub, GitLab, Bitbucket
+- 🛠️ **Git Platforms**: GitHub, GitLab, Bitbucket
 
 ## Ready to Bring Your Project to Life?
 
