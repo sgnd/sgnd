@@ -3,13 +3,13 @@ Are you seeking to transform your digital dreams into reality? Look no further! 
 
 ## Why You Should Work with Me:
 
-- 💻 Backend: Creating the engine that drives your digital success. I'm skilled in Node.js, Go, and Python, and I use these languages to build high-performing applications.
-- 🌐 Frontend: Design attractive and user-friendly web/mobile apps using React, React Native, and Flutter. Users will enjoy a seamless experience on the web, iOS, and Android.
-- 🧙 Blockchain: I can help you navigate the world of blockchain technology. I create custom tokens on the Ethereum blockchain, ensuring security and efficiency for your projects.
-- ☁️ DevOps/SysAdmin: I elevate your digital presence by working with cloud platforms like AWS, Google Cloud, and Azure, ensuring secure, scalable, and always available applications.
-- 🤖 Automation: Making the project run smoothly, with the power of automation, I optimize processes and boost efficiency using cutting-edge tools like Jenkins, Ansible, and Terraform.
-- 📊 Database: With expertise in managing databases such as MySQL, PostgreSQL, and MongoDB, I guarantee top-notch performance, ensuring that your data is not just managed but optimized.
-- 🚀 Monitoring: I use monitoring tools like Prometheus, Grafana, Node Exporter, Alert Manager, and the ELK Stack to identify and address issues proactively, sending alerts when necessary.
+- 💻 **Backend**: Creating the engine that drives your digital success. I'm skilled in Node.js, Go, and Python, and I use these languages to build high-performing applications.
+- 🌐 **Frontend**: Design attractive and user-friendly web/mobile apps using React, React Native, and Flutter. Users will enjoy a seamless experience on the web, iOS, and Android.
+- 🧙 **Blockchain**: I can help you navigate the world of blockchain technology. I create custom tokens on the Ethereum blockchain, ensuring security and efficiency for your projects.
+- ☁️ **DevOps/SysAdmin**: I elevate your digital presence by working with cloud platforms like AWS, Google Cloud, and Azure, ensuring secure, scalable, and always available applications.
+- 🤖 **Automation**: Making the project run smoothly, with the power of automation, I optimize processes and boost efficiency using cutting-edge tools like Jenkins, Ansible, and Terraform.
+- 📊 **Database**: With expertise in managing databases such as MySQL, PostgreSQL, and MongoDB, I guarantee top-notch performance, ensuring that your data is not just managed but optimized.
+- 🚀 **Monitoring**: I use monitoring tools like Prometheus, Grafana, Node Exporter, Alert Manager, and the ELK Stack to identify and address issues proactively, sending alerts when necessary.
 
 ## Additional Skills:
 
