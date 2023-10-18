@@ -4,11 +4,11 @@ Are you seeking to transform your digital dreams into reality? Look no further! 
 ## Why You Should Work with Me:
 - 💻 **Backend**: I am skilled in Node.js, Go, and Python, and I use these languages to build high-performing applications.
 - 🌐 **Frontend**: I can design attractive and user-friendly apps using React, Vue, Angular, React Native, and Flutter.
-- 🧙 **Blockchain**: I can create custom tokens on the Ethereum blockchain, ensuring security and efficiency for your projects.
+- 🧙 **Blockchain**: I can create custom tokens on the Ethereum blockchain, ensuring security and efficiency for the projects.
 - ☁️ **DevOps**: I work with cloud providers like AWS, GCP, and Azure, ensuring security, scalability, and availability.
 - 🤖 **Automation**: I optimize processes and boost efficiency using tools like Packer, Jenkins, Ansible, and Terraform.
-- 📊 **Database**: Managing databases such as PostgreSQL and MongoDB, I guarantee that your data is not only managed but optimized.
-- 🚀 **Monitoring**: I use monitoring tools like Prometheus, Grafana, and the ELK Stack to identify and address issues proactively.
+- 📊 **Database**: Managing DB such as PostgreSQL and MongoDB, I guarantee that your data is not only managed but optimized.
+- 🚀 **Monitoring**: I use monitoring tools like Prometheus, Grafana, and the ELK to identify and address issues proactively.
 
 ## Additional Skills:
 
