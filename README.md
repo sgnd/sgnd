@@ -5,6 +5,10 @@ Are you seeking to transform your digital dreams into reality? Look no further! 
 - 💻 Backend: Skilled in NodeJS, Go, and Python, and use these to build high-class apps.
 - 🌐 Frontend: Design attractive and user-friendly using React, React Native, and Flutter.
 - 🧙 Blockchain: Create custom tokens on Ethereum, ensuring security and efficiency.
+- 💻 IoT: Proficient in IoT to gather real-time data and automate processes.
+- 📈 Big Data: Utilize Big Data analytics to derive valuable business intelligence.
+- 🚀 Low-Code: Accelerate app creation and innovation with Low-Code tools.
+- 👁️ AI: Leverage AI-driven algorithms to make data-driven decisions.
 - ☁️ DevOps: Use cloud like AWS, GCP, and Azure to ensure scalability and availability.
 - 🤖 Automation: Boost efficiency using tools like Packer, Jenkins, Ansible, and Terraform.
 - 📊 Database: Manage and optimize databases such as PostgreSQL and MongoDB.
