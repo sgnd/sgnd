@@ -1,5 +1,5 @@
 ## Hey 👋
-Are you seeking to transform your digital dreams into reality? Look no further! I'm not just a developer; I'm the founder of Creatif Studio, and I'm here to make your digital wishes come true. With extensive experience in building websites, mobile apps, and cloud infrastructure, I can help businesses of all sizes achieve their goals. My mission is to create top-notch, secure, and scalable applications using the latest technology.
+Are you seeking to transform your digital dreams into reality? Look no further! I'm not just an engineer; I'm the founder of Creatif Studio, and I'm here to make your digital wishes come true. With extensive experience building websites, mobile apps, and cloud infrastructure, I can help businesses of all sizes achieve their goals. My mission is to create top-notch, secure, and scalable applications using the latest technology.
 
 ## Why You Should Work with Me:
 - 💻 Backend: Skilled in NodeJS, Go, and Python, and use these to build high-class apps.
