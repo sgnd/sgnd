@@ -1,10 +1,10 @@
-The journey to becoming a Full-Stack Developer and DevSecOps/SRE/SysAdmin can be frustrating. You may have followed tutorials on the internet and feel confident, but get stuck when it comes to creating your own infrastructure. Or, with so many resources available and limited time, you may feel overwhelmed and unsure of what to focus on.
+Learning to become a Full-Stack Developer or DevSecOps/SRE/SysAdmin can be hard. You may follow online tutorials and feel ready, but then get stuck when you try to build your own system. Or there is so much to learn and so little time that you don't know where to start.
 
-Let me help guide you on your journey to becoming a Full-Stack Developer and DevSecOps/SRE/SysAdmin. My priority is to help you understand your goals and the steps you need to take to achieve them.
+I can guide you. First, we find out what your goal is. Then I show you the steps to get there.
 
-## Subjects I can help with
+## What I Teach
 
-I can assist with the following subjects:
+I can help you with:
 
 - Basic to Advanced: Linux Server
 - Basic to Advanced: Linux Command Line Interface
@@ -19,12 +19,12 @@ I can assist with the following subjects:
   - Configuration Management
   - Infrastructure Provisioning
 - Infrastructure & Application Monitoring
-- Logs Managements
+- Log Management
 - Database and Caching
 
-I can help you understand how to put together various technologies to create a complete infrastructure.
+I will also show you how to connect these tools to build a complete system.
 
-## What my past students have to say
+## What My Past Students Say
 
 *During the learning process, Sugeng explained the basic material well and was easy to understand. Sugeng also teaches the principle of developing a DevOps mind in order to make individuals adapt quickly to the world of work.* - **Anjar D**
 
@@ -46,6 +46,6 @@ I can help you understand how to put together various technologies to create a c
 
 *When he became my mentor at Bootcamp, he was relaxed and friendly, so comfortable that his knowledge was well absorbed.* - **Rizal Darmawan**
 
-## Hire me
+## Hire Me
 
-If you're interested in working with me, please contact me on [Upwork](https://www.upwork.com/freelancers/~01613415730ea0a278) or [LinkedIn](https://linkedin.com/in/sgnd).
+Want to work with me? Contact me on [Upwork](https://www.upwork.com/freelancers/~01613415730ea0a278) or [LinkedIn](https://linkedin.com/in/sgnd).

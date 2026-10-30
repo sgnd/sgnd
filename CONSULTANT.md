@@ -1,8 +1,8 @@
-I've spent the last few years designing, automating, and managing infrastructure for small businesses, startups and large organizations. My goal is to leave my clients with a smile on their faces by solving their problems in a timely and professional manner.
+For the past few years, I have built, automated, and managed servers and cloud systems for small businesses, startups, and large companies. My goal is to solve my clients' problems quickly and professionally, so they are happy with the result.
 
-I leverage my experiences and skills to understand the problem a client has and execute a solution that solves it. This allows my clients to confidently focus on their business.
+I listen to understand your problem, then I build a solution that fixes it. This way, you can focus on running your business.
 
-## I am skilled in the following technologies:  
+## Technologies I Work With:  
 
 ### Full-Stack Development:  
 - Programming languages: Node.js, Go-Lang, and Python  
@@ -25,8 +25,8 @@ I leverage my experiences and skills to understand the problem a client has and 
 - Monitoring & Alerting: Prometheus, Grafana, and Alert Manager
 - Logs Management: ELK Stack and Grafana Loki  
 
-I am confident in my ability to deliver high-quality, secure, and scalable infrastructure in a timely manner. I always strive to improve communication and understanding of my client's needs.
+I deliver systems that are reliable, safe, and ready to grow, and I deliver them on time. I keep in close contact with my clients so I always understand what they need.
 
-## Hire me
+## Hire Me
 
-If you're interested in working with me, please contact me on [Upwork](https://www.upwork.com/freelancers/~01613415730ea0a278) or [LinkedIn](https://linkedin.com/in/sgnd).
+Want to work with me? Contact me on [Upwork](https://www.upwork.com/freelancers/~01613415730ea0a278) or [LinkedIn](https://linkedin.com/in/sgnd).
