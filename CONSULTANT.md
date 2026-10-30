@@ -5,7 +5,7 @@ I listen to understand your problem, then I build a solution that fixes it. This
 ## Technologies I Work With:  
 
 ### Full-Stack Development:  
-- Programming languages: Node.js, Go-Lang, and Python  
+- Programming languages: Node.js, Go, and Python  
 - Backend frameworks: Next.js, Nest.js, Gin, Echo, Django, and Flask  
 - Frontend frameworks: React.js, Next.js, Vue.js, Nuxt.js, and React Native  
 - Databases: MySQL/MariaDB, PostgreSQL, and MongoDB  
@@ -17,12 +17,12 @@ I listen to understand your problem, then I build a solution that fixes it. This
 
 ### DevSecOps/SRE/SysAdmin:  
 - Cloud Providers: AWS, GCP, Azure, OVH, Vultr, and DigitalOcean
-- Operating Systems: Ubuntu Server and RedHat Server
+- Operating Systems: Ubuntu Server and Red Hat Enterprise Linux
 - Infrastructure as Code: Vagrant, Ansible, and Terraform
 - Containerization: Docker and Podman
 - Container Orchestration: Kubernetes, Docker Swarm, and Rancher
 - CI/CD: Jenkins, GitLab CI, GitHub Actions, ArgoCD, and FluxCD
-- Monitoring & Alerting: Prometheus, Grafana, and Alert Manager
+- Monitoring & Alerting: Prometheus, Grafana, and Alertmanager
 - Logs Management: ELK Stack and Grafana Loki  
 
 I deliver systems that are reliable, safe, and ready to grow, and I deliver them on time. I keep in close contact with my clients so I always understand what they need.

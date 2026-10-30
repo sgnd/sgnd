@@ -8,14 +8,13 @@ I can help you with:
 
 - Basic to Advanced: Linux Server
 - Basic to Advanced: Linux Command Line Interface
-- Basic to Advanced: Programming Language
-- Networking, Security & Protocol
+- Basic to Advanced: Programming Languages
+- Networking, Security & Protocols
 - Web Server, Proxy, API & Load Balancer
 - Cloud Providers
 - Continuous Integration / Continuous Delivery
+- Containers & Container Orchestration
 - Infrastructure as Code
-  - Container
-  - Container Orchestration
   - Configuration Management
   - Infrastructure Provisioning
 - Infrastructure & Application Monitoring
