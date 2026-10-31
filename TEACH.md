@@ -1,4 +1,4 @@
-Learning to become a Full-Stack Developer or DevSecOps/SRE/SysAdmin can be hard. You may follow online tutorials and feel ready, but then get stuck when you try to build your own system. Or there is so much to learn and so little time that you don't know where to start.
+Learning to become a DevSecOps/SRE/SysAdmin engineer can be hard. You may follow online tutorials and feel ready, but then get stuck when you try to build your own system. Or there is so much to learn and so little time that you don't know where to start.
 
 I can guide you. First, we find out what your goal is. Then I show you the steps to get there.
 
@@ -8,7 +8,7 @@ I can help you with:
 
 - Basic to Advanced: Linux Server
 - Basic to Advanced: Linux Command Line Interface
-- Basic to Advanced: Programming Languages
+- Basic to Advanced: Scripting (Bash and Python)
 - Networking, Security & Protocols
 - Web Server, Proxy, API & Load Balancer
 - Cloud Providers
