@@ -1,5 +1,5 @@
 ## Hey 👋
-I'm an engineer and the founder of Creatif Studio. I build websites, mobile apps, and cloud systems for businesses of all sizes. My goal is to make apps that work well, stay safe, and can grow with your business.
+I'm an engineer and the founder of Creatif Studio and Efolusi. I build websites, mobile apps, and cloud systems for businesses of all sizes. My goal is to make apps that work well, stay safe, and can grow with your business.
 
 ## What I Can Do for You:
 - 💻 Backend: I build apps with NodeJS, Go, and Python.
