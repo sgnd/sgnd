@@ -18,7 +18,7 @@ Through Creatif Studio and Efolusi, my teams can build your whole product: UI/UX
 
 ## My Products:
 
-- 🧭 **[komando](https://github.com/sgnd/komando)**: A CLI to manage all your servers and tools, for you and your AI agents.
+- 🧭 **[komando](https://github.com/sgnd/komando)**: A CLI to manage all your infrastructure, for you and AI agents.
 - ⚓ **[ansibro](https://github.com/sgnd/ansibro)**: Set up Docker Swarm and K3S with one command, online or offline.
 - ✨ **[dejavu](https://github.com/sgnd/dejavu)**: Let your AI agent install software for you on Linux and macOS.
 - 🍺 **[brework](https://github.com/sgnd/brework)**: Set up a Mac for Dev and Ops work with one command.
