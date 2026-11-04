@@ -16,6 +16,13 @@ I'm also the founder of Creatif Studio and Efolusi, two software studios. My tea
 
 Through Creatif Studio and Efolusi, my teams can build your whole product: UI/UX design, web and mobile apps, QA testing, and technical writing. I make sure it all runs well in the cloud.
 
+## My Products:
+
+- 🧭 **[komando](https://github.com/sgnd/komando)**: A CLI to manage all your servers and tools, for you and your AI agents.
+- ⚓ **[ansibro](https://github.com/sgnd/ansibro)**: Set up Docker Swarm and K3S with one command, online or offline.
+- ✨ **[dejavu](https://github.com/sgnd/dejavu)**: Let your AI agent install software for you on Linux and macOS.
+- 🍺 **[brework](https://github.com/sgnd/brework)**: Set up a Mac for Dev and Ops work with one command.
+
 ## Have a Project in Mind?
 
 If you have an idea and need someone to build it, I can help. Contact me today on [Upwork](https://www.upwork.com/freelancers/~01613415730ea0a278) or [LinkedIn](https://linkedin.com/in/sgnd) and let's talk about your project.
