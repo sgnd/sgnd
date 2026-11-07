@@ -18,14 +18,14 @@ Through Creatif Studio and Efolusi, my teams can build your whole product: UI/UX
 
 ## My Products:
 
-- 🍺 **[brework](https://github.com/sgnd/brework)**: Set up a Mac for Dev and Ops work with one command.
-- ⚓ **[ansibro](https://github.com/sgnd/ansibro)**: Set up Docker Swarm & K3S with one command, online or offline.
-- 🧭 **[komando](https://github.com/sgnd/komando)**: A CLI to manage all your infrastructure, for you and AI agents.
+- 🍺 **[brework](https://github.com/sgnd/brework)**: Set up a Mac for Dev & Ops work with one command.
+- ⚓ **[ansibro](https://github.com/sgnd/ansibro)**: Set up your servers to run apps with one command: Docker Swarm or K3S, online or offline.
+- 🧭 **[komando](https://github.com/sgnd/komando)**: One safe command line for all your DevOps work: servers, databases, caches, storage and more. For you and your AI agent.
 - ✨ **[dejavu](https://github.com/sgnd/dejavu)**: An agent skill that writes the full handover pack for an ansibro system.
 
 ## Have a Project in Mind?
 
 If you have an idea and need someone to build it, I can help. Contact me today on [Upwork](https://www.upwork.com/freelancers/~01613415730ea0a278) or [LinkedIn](https://linkedin.com/in/sgnd) and let's talk about your project.
 
-- [DevOps Teacher](TEACH.md): See my teaching services and schedule
-- [DevOps Consultant](CONSULTANT.md): See my consulting services and schedule
+- [DevOps Teacher](TEACH.md): See what I teach and what my students say
+- [DevOps Consultant](CONSULTANT.md): See my consulting services and the tools I work with
