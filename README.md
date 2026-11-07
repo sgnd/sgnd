@@ -21,7 +21,7 @@ Through Creatif Studio and Efolusi, my teams can build your whole product: UI/UX
 - 🍺 **[brework](https://github.com/sgnd/brework)**: Set up a Mac for Dev and Ops work with one command.
 - ⚓ **[ansibro](https://github.com/sgnd/ansibro)**: Set up Docker Swarm & K3S with one command, online or offline.
 - 🧭 **[komando](https://github.com/sgnd/komando)**: A CLI to manage all your infrastructure, for you and AI agents.
-- ✨ **[dejavu](https://github.com/sgnd/dejavu)**: An agent skill that turns your architecture into docs, for handover and onboarding.
+- ✨ **[dejavu](https://github.com/sgnd/dejavu)**: An agent skill that writes the full handover pack for an ansibro system.
 
 ## Have a Project in Mind?
 
